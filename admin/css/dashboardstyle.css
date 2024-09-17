@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Work+Sans:400,500,600,700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+/*********** admin dashboard styling **********/
+.card {
+  background-color: #3b3131;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 8px 5px 5px #ddd;
+}
